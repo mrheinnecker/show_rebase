@@ -1,9 +1,0 @@
-This is my file to present
-why you should not include sensible information like a phone number, e.g. 
-# removed 
-into your public scripts
-
-
-here i add something else later
-
-
